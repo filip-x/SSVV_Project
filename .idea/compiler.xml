@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MaxPointsParticipants" />
         <module name="SSVV" />
+        <module name="SSVV_Project" />
       </profile>
     </annotationProcessing>
   </component>
